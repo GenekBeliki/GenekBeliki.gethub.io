@@ -6,4 +6,10 @@
 </style>
 <p class="cwd"><a href="https://github.com/GenekBeliki/chtoto_po_pytonu" target="_blank" class="cwda" title="Гитхаб Шумилова">Гитхаб Шумилова</a></p>
 
-<a target="_blank"href="https://frr52.wordpress.com/"><img style="border:0px;" src="https://images.webestools.com/buttons.php?frm=1&btn_type=48&txt=My%20Site" onmouseover="this.src='https://images.webestools.com/buttons.php?frm=2&btn_type=48&txt=My%20Site'" onmouseout="this.src='https://images.webestools.com/buttons.php?frm=1&btn_type=48&txt=My%20Site';" alt="My%20Site" /></a><script type="text/javascript">img=new Image();img.src= "https://images.webestools.com/buttons.php?frm=2&btn_type=48&txt=My%20Site";</script>
+
+<style>
+.cwd{text-align:left;}
+.cwda{cursor:pointer;font-size:14px;text-decoration:none;padding:12px 29px;color:#000000;background-color:#ffffff;border-radius:5px;border:3px solid #000000;}
+.cwda:hover{background-color:#000000;color:#ffffff;}
+</style>
+<p class="cwd"><a href="" target="_blank" class="cwda" title="Викторина от Жени.py">Викторина от Жени.py</a></p>
