@@ -14,12 +14,12 @@
 .cwd2a:hover{background-color:#000000;color:#ffffff;}
 </style>
 
-123
+
 <div>
 <p class="cwd2">
 <a href="https://github.com/GenekBeliki/chtoto_po_pytonu/blob/main/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0%20%D0%BE%D1%82%20%D0%96%D0%B5%D0%BD%D0%B8.py" target="_blank" class="cwd2a" title="Викторина от Жени.py">Викторина от Жени.py</a></p>
 </div>
-123
+
 
 <style>
 .cwd3{text-align:left;}
@@ -27,7 +27,7 @@
 .cwd3a:hover{background-color:#ffc800;color:#ffffff;}
 </style>
 
-123
+
 <div>
 <p class="cwd3"><a href="https://frr52.wordpress.com/" target="_blank" class="cwd3a" title="My Site">My Site</a></p>
 </div>
