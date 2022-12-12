@@ -4,33 +4,33 @@
 .cwda{cursor:pointer;font-size:24px;text-decoration:none;padding:17px 51px;color:#000000;background-color:#34d5cb;border-radius:7px;border:6px solid #0f7208;}
 .cwda:hover{background-color:#dc0909;color:#ffffff;}
 </style>
-
+<div>
 <p class="cwd"><a href="https://github.com/GenekBeliki/chtoto_po_pytonu" target="_blank" class="cwda" title="Гитхаб Шумилова">Гитхаб Шумилова</a></p>
-
+</div>
 
 <style>
-.cwd{text-align:left;}
-.cwda{cursor:pointer;font-size:14px;text-decoration:none;padding:12px 29px;color:#000000;background-color:#ffffff;border-radius:5px;border:3px solid #000000;}
-.cwda:hover{background-color:#000000;color:#ffffff;}
+.cwd2{text-align:left;}
+.cwd2a{cursor:pointer;font-size:14px;text-decoration:none;padding:12px 29px;color:#000000;background-color:#ffffff;border-radius:5px;border:3px solid #000000;}
+.cwd2a:hover{background-color:#000000;color:#ffffff;}
 </style>
 
 123
-
-<p class="cwd">
+<div>
+<p class="cwd2">
 <a href="https://github.com/GenekBeliki/chtoto_po_pytonu/blob/main/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0%20%D0%BE%D1%82%20%D0%96%D0%B5%D0%BD%D0%B8.py" target="_blank" class="cwda" title="Викторина от Жени.py">Викторина от Жени.py</a></p>
-
+</div>
 123
 
 <style>
-.cwd{text-align:left;}
-.cwda{cursor:pointer;font-size:29px;text-decoration:none;padding:29px 41px;color:#07f2d7;background-color:#ff00f7;border-radius:21px;border:3px solid #3700ff;}
-.cwda:hover{background-color:#ffc800;color:#ffffff;}
+.cwd3{text-align:left;}
+.cwd3a{cursor:pointer;font-size:29px;text-decoration:none;padding:29px 41px;color:#07f2d7;background-color:#ff00f7;border-radius:21px;border:3px solid #3700ff;}
+.cwd3a:hover{background-color:#ffc800;color:#ffffff;}
 </style>
 
 123
-
-<p class="cwd"><a href="https://frr52.wordpress.com/" target="_blank" class="cwda" title="My Site">My Site</a></p>
-
+<div>
+<p class="cwd3"><a href="https://frr52.wordpress.com/" target="_blank" class="cwda" title="My Site">My Site</a></p>
+</div>
 
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5722" lang="ru" id="dayspedia_widget_7bea8214aa9dc964" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-11.png&quot;); border-color: rgb(164, 10, 10); border-width: 8px; background-color: rgb(255, 0, 0);">
 	<style media="screen" id="DPACstyles">
