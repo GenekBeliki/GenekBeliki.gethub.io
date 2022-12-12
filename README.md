@@ -17,7 +17,7 @@
 123
 <div>
 <p class="cwd2">
-<a href="https://github.com/GenekBeliki/chtoto_po_pytonu/blob/main/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0%20%D0%BE%D1%82%20%D0%96%D0%B5%D0%BD%D0%B8.py" target="_blank" class="cwda" title="Викторина от Жени.py">Викторина от Жени.py</a></p>
+<a href="https://github.com/GenekBeliki/chtoto_po_pytonu/blob/main/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0%20%D0%BE%D1%82%20%D0%96%D0%B5%D0%BD%D0%B8.py" target="_blank" class="cwd2a" title="Викторина от Жени.py">Викторина от Жени.py</a></p>
 </div>
 123
 
@@ -29,7 +29,7 @@
 
 123
 <div>
-<p class="cwd3"><a href="https://frr52.wordpress.com/" target="_blank" class="cwda" title="My Site">My Site</a></p>
+<p class="cwd3"><a href="https://frr52.wordpress.com/" target="_blank" class="cwd3a" title="My Site">My Site</a></p>
 </div>
 
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5722" lang="ru" id="dayspedia_widget_7bea8214aa9dc964" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-11.png&quot;); border-color: rgb(164, 10, 10); border-width: 8px; background-color: rgb(255, 0, 0);">
